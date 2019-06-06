@@ -11,13 +11,13 @@ image: mountains.jpg
 
 ## Education
 
-Bachelor of Science Computer Science: UNIVERSITY OF WISCONSIN, MILWAUKEE / DECEMBER, 2018
-● System Programming: C language, Unix.      
-● Operating System
-● Digital Logic
-● Computer Architecture
-● Computer Language Concepts: ML, Scala language.
-● Assembly Language Programming: MIPS
+Bachelor of Science Computer Science: UNIVERSITY OF WISCONSIN, MILWAUKEE / DECEMBER, 2018<br>
+● System Programming: C language, Unix.      <br>
+● Operating System<br>
+● Digital Logic<br>
+● Computer Architecture<br>
+● Computer Language Concepts: ML, Scala language.<br>
+● Assembly Language Programming: MIPS<br>
 
 ## Technical Skills
 
