@@ -29,5 +29,9 @@ Bachelor of Science Computer Science: UNIVERSITY OF WISCONSIN, MILWAUKEE / DECEM
 ● Microsoft basic tools: Word, PPT, Excel. <br>
 ● Rich Experience in Manage Network (LAN, Router, Switch, Modem, making wire cable)
 
+## Working Experience
+
+
+
 ## Questions?
 Please contact me at Email:lukaleemke@gmail.com
