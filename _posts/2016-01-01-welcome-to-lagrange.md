@@ -12,8 +12,8 @@ image: mountains.jpg
 ## Education
 
 Bachelor of Science Computer Science: UNIVERSITY OF WISCONSIN, MILWAUKEE / DECEMBER, 2018<br>
-● System Programming: C language, Unix.      <br>
-● Operating System<br>
+● System Programming: C language, Unix.      <br> </br>
+ <br> ● Operating System</br>
 ● Digital Logic<br>
 ● Computer Architecture<br>
 ● Computer Language Concepts: ML, Scala language.<br>
