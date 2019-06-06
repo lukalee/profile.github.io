@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Resume!"
-author: "Luyao Li"
+author: "Luka Li"
 categories: Resume
 tags: [documentation,sample]
 image: mountains.jpg
